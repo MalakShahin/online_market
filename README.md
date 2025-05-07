@@ -26,8 +26,7 @@ The system demonstrates object-oriented programming principles in C++ with class
 
 # Structure
 
-online-marketplace/
-
+```
 ├── src/
 │   ├── main.cpp           
 ├── include/                  
@@ -45,7 +44,7 @@ online-marketplace/
 │
 ├── Makefile                  
 └── README.md                
-
+```
 ---
 
 # Contact
